@@ -1,4 +1,7 @@
 
+Com base em uma rotina de CRUD de usuários (incluindo a função login) em um sistema Web simples, faça o BDD das rotinas do sistema (CRUD + Login).
+(Anote também os princípios de teste).
+
 1° Cenário: Criar Conta (Create)
 
 Dado que estou na tela de criação de conta, E adiciono minhas informações de <email>, <nome>, <telefone> e <senha>, Quando clico no botão de <Criar Conta> então o sistema irá criar a conta e redirecionar a tela de login.
