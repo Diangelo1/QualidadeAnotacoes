@@ -1,3 +1,4 @@
+06/03/2026
 
 Com base em uma rotina de CRUD de usuários (incluindo a função login) em um sistema Web simples, faça o BDD das rotinas do sistema (CRUD + Login).
 (Anote também os princípios de teste).
